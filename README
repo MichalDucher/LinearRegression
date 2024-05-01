@@ -1,0 +1,25 @@
+# Linear Regression with Visualization
+
+This project implements linear regression with animated visualization using Python. The program utilizes the matplotlib library for visualization and scikit-learn for linear regression computation.
+
+## Requirements
+
+To run this program, you need to have the following libraries installed:
+
+- numpy
+- matplotlib
+- scikit-learn
+
+You can install them using pip:
+
+
+## Usage
+
+To run the program, execute the script `main.py`. The program will generate animated visualization of linear regression on a plot.
+
+
+## How it works
+
+The program generates random data, fits a linear regression model to it , and then creates an animated visualization on the plot using matplotlib.
+
+
